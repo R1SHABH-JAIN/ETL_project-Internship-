@@ -1,0 +1,140 @@
+[{
+  "_id": {
+    "$oid": "678b97abd5cc6e5c364eeb86"
+  },
+  "transaction_id": "T1001",
+  "product_id": 1001,
+  "product_name": "Laptop",
+  "customer_id": 10,
+  "customer_name": "Rishabh Jain",
+  "quantity": 1,
+  "transaction_date": "2023-01-05",
+  "price": 1200,
+  "Promo_ID": "no promo"
+},
+{
+  "_id": {
+    "$oid": "678b97e2d5cc6e5c364eeb87"
+  },
+  "transaction_id": "T1002",
+  "product_id": 1002,
+  "product_name": "Smartphone",
+  "customer_id": 11,
+  "customer_name": "Munna Bajrangi",
+  "quantity": 2,
+  "transaction_date": "2023-02-10",
+  "price": 800,
+  "Promo_ID": "no promo"
+},
+{
+  "_id": {
+    "$oid": "678b981ed5cc6e5c364eeb88"
+  },
+  "transaction_id": "T1003",
+  "product_id": 1003,
+  "product_name": "Headphones",
+  "customer_id": 12,
+  "customer_name": "Anmol Bichpuriya",
+  "quantity": 3,
+  "transaction_date": "2023-03-07",
+  "price": 150,
+  "Promo_ID": "P002"
+},
+{
+  "_id": {
+    "$oid": "678b985fd5cc6e5c364eeb89"
+  },
+  "transaction_id": "T1004",
+  "product_id": 1004,
+  "product_name": "Monitor",
+  "customer_id": 13,
+  "customer_name": "Raj Sharma",
+  "quantity": 1,
+  "transaction_date": "2023-01-15",
+  "price": 300,
+  "Promo_ID": "no promo"
+},
+{
+  "_id": {
+    "$oid": "678b986ed5cc6e5c364eeb8a"
+  },
+  "transaction_id": "T1005",
+  "product_id": 1005,
+  "product_name": "Tablet",
+  "customer_id": 14,
+  "customer_name": "Anmol Soni",
+  "quantity": 2,
+  "transaction_date": "2023-02-20",
+  "price": 500,
+  "Promo_ID": "no promo"
+},
+{
+  "_id": {
+    "$oid": "678b9888d5cc6e5c364eeb8b"
+  },
+  "transaction_id": "T1006",
+  "product_id": 1006,
+  "product_name": "Keyboard",
+  "customer_id": 15,
+  "customer_name": "Bhura Bhai",
+  "quantity": 1,
+  "transaction_date": "2023-03-10",
+  "price": 100,
+  "Promo_ID": "P010"
+},
+{
+  "_id": {
+    "$oid": "678b98aad5cc6e5c364eeb8c"
+  },
+  "transaction_id": "T1007",
+  "product_id": 1001,
+  "product_name": "Laptop",
+  "customer_id": 16,
+  "customer_name": "Aman Bootwala",
+  "quantity": 2,
+  "transaction_date": "2023-01-22",
+  "price": 1200,
+  "Promo_ID": "P015"
+},
+{
+  "_id": {
+    "$oid": "678b98b9d5cc6e5c364eeb8d"
+  },
+  "transaction_id": "T1008",
+  "product_id": 1003,
+  "product_name": "Headphones",
+  "customer_id": 17,
+  "customer_name": "Tanmay Bhat",
+  "quantity": 3,
+  "transaction_date": "2023-02-05",
+  "price": 150,
+  "Promo_ID": "no promo"
+},
+{
+  "_id": {
+    "$oid": "678b98c9d5cc6e5c364eeb8e"
+  },
+  "transaction_id": "T1009",
+  "product_id": 1005,
+  "product_name": "Tablet",
+  "customer_id": 18,
+  "customer_name": "Gareeb Scientist",
+  "quantity": 1,
+  "transaction_date": "2023-03-15",
+  "price": 500,
+  "Promo_ID": "no promo"
+},
+{
+  "_id": {
+    "$oid": "678b98ddd5cc6e5c364eeb8f"
+  },
+  "transaction_id": "T1010",
+  "product_id": 1002,
+  "product_name": "Smartphone",
+  "customer_id": 19,
+  "customer_name": "Atul Bharve",
+  "quantity": 3,
+  "transaction_date": "2023-01-30",
+  "price": 800,
+  "Promo_ID": "no promo"
+}]

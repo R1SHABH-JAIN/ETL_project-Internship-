@@ -1,0 +1,107 @@
+
+// MongoDB Create Collection and Insert Data
+use salesDB;
+
+// Create Collection (MongoDB automatically creates collection when inserting data)
+// No explicit CREATE command needed for collections in MongoDB
+
+db.sales.insert({ 
+    "transaction_id": "T1001", 
+    "product_id": 1001, 
+    "product_name": "Laptop", 
+    "customer_id": 10, 
+    "customer_name": "Customer 10", 
+    "quantity": 1, 
+    "transaction_date": "2023-01-05", 
+    "price": 1200.00 
+});
+db.sales.insert({ 
+    "transaction_id": "T1002", 
+    "product_id": 1002, 
+    "product_name": "Smartphone", 
+    "customer_id": 11, 
+    "customer_name": "Customer 11", 
+    "quantity": 2, 
+    "transaction_date": "2023-02-10", 
+    "price": 800.00 
+});
+db.sales.insert({ 
+    "transaction_id": "T1003", 
+    "product_id": 1003, 
+    "product_name": "Headphones", 
+    "customer_id": 12, 
+    "customer_name": "Customer 12", 
+    "quantity": 3, 
+    "transaction_date": "2023-03-07", 
+    "price": 150.00 
+});
+db.sales.insert({ 
+    "transaction_id": "T1004", 
+    "product_id": 1004, 
+    "product_name": "Monitor", 
+    "customer_id": 13, 
+    "customer_name": "Customer 13", 
+    "quantity": 1, 
+    "transaction_date": "2023-01-15", 
+    "price": 300.00 
+});
+db.sales.insert({ 
+    "transaction_id": "T1005", 
+    "product_id": 1005, 
+    "product_name": "Tablet", 
+    "customer_id": 14, 
+    "customer_name": "Customer 14", 
+    "quantity": 2, 
+    "transaction_date": "2023-02-20", 
+    "price": 500.00 
+});
+db.sales.insert({ 
+    "transaction_id": "T1006", 
+    "product_id": 1006, 
+    "product_name": "Keyboard", 
+    "customer_id": 15, 
+    "customer_name": "Customer 15", 
+    "quantity": 1, 
+    "transaction_date": "2023-03-10", 
+    "price": 100.00 
+});
+db.sales.insert({ 
+    "transaction_id": "T1007", 
+    "product_id": 1001, 
+    "product_name": "Laptop", 
+    "customer_id": 16, 
+    "customer_name": "Customer 16", 
+    "quantity": 2, 
+    "transaction_date": "2023-01-22", 
+    "price": 1200.00 
+});
+db.sales.insert({ 
+    "transaction_id": "T1008", 
+    "product_id": 1003, 
+    "product_name": "Headphones", 
+    "customer_id": 17, 
+    "customer_name": "Customer 17", 
+    "quantity": 3, 
+    "transaction_date": "2023-02-05", 
+    "price": 150.00 
+});
+db.sales.insert({ 
+    "transaction_id": "T1009", 
+    "product_id": 1005, 
+    "product_name": "Tablet", 
+    "customer_id": 18, 
+    "customer_name": "Customer 18", 
+    "quantity": 1, 
+    "transaction_date": "2023-03-15", 
+    "price": 500.00 
+});
+db.sales.insert({ 
+    "transaction_id": "T1010", 
+    "product_id": 1002, 
+    "product_name": "Smartphone", 
+    "customer_id": 19, 
+    "customer_name": "Customer 19", 
+    "quantity": 3, 
+    "transaction_date": "2023-01-30", 
+    "price": 800.00 
+});
